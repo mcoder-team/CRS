@@ -1,4 +1,4 @@
-local crs = require("src/CRS")
+local crs = require("src.CRS")
 local bsc = require("basic") -- this is only used for sleep()
 local video = {
     {"text", "CRS", 10, 2, "center"},
