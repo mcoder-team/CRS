@@ -1,6 +1,5 @@
 # Console Rendering System 1.0B
-Lightweight and easy to use library for easily making user interface in the console
-Language: Lua
+Lightweight and easy to use library for easily making user interface in the console.
 
 ## Features
 1. Full UTF-8 support (emojis, special symbols).
